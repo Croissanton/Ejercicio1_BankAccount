@@ -1,0 +1,1 @@
+En primer lugar, creamos la rama main con las dos clases propuestas. Tras esto, mejoramos el código y añadimos las pruebas en una rama aparte llamada develop. Después de comprobar que todo funciona bien en develop, hacemos un merge de ambas.
